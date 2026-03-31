@@ -10,7 +10,7 @@ Group A:
 
 Group B: 
 * PoliceManagementSystem -> https://github.com/exheleshi23-sys/Software_Project.git
-* Hospital IVF System -> https://github.com/ArbriHamzallari/IVF-Fertility-Hospital-Management-System.git https://github.com/RobertoGjeta/Hospital-Management-System.git
+* Hospital IVF System -> https://github.com/RobertoGjeta/Hospital-Management-System.git
 * Eren Travel Agency -> https://github.com/wendi937/ErenTravelAgency.git
 * Restaurant Delivery Platform -> https://github.com/ezela23-cmyk/Restaurant-Delivery-App
 * Group 3 -> (missing)
