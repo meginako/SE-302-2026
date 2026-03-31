@@ -13,13 +13,13 @@ Group B:
 * Hospital IVF System -> https://github.com/RobertoGjeta/Hospital-Management-System.git
 * Eren Travel Agency -> https://github.com/wendi937/ErenTravelAgency.git
 * Restaurant Delivery Platform -> https://github.com/ezela23-cmyk/Restaurant-Delivery-App
-* Group 3 -> (missing)
+* Group 3 -> https://github.com/EPK-COURSES/TableSync-Pro (does not work)
 
 Group C:
 * Librario -> https://github.com/kiarakarriqi/Librario
 * UnderGraduateLab -> https://github.com/siborakociu/Undergraduate_Lab_Portal.git
 * EasyTicket -> https://github.com/BoraTollkuci/Easy-Ticket--SWEproject
-* Group 4 -> (missing)
+* Car Rental -> https://github.com/x-c05/DriveAlb
 
 Group D:
 * HR System -> https://github.com/aidrizi23/HR_system_swe.git
