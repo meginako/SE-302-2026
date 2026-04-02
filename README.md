@@ -12,8 +12,8 @@ Group B:
 * PoliceManagementSystem -> https://github.com/exheleshi23-sys/Software_Project.git
 * Hospital IVF System -> https://github.com/RobertoGjeta/Hospital-Management-System.git
 * Eren Travel Agency -> https://github.com/wendi937/ErenTravelAgency.git
-* Restaurant Delivery Platform -> https://github.com/ezela23-cmyk/Restaurant-Delivery-App
-* Group 3 -> https://github.com/EPK-COURSES/TableSync-Pro (does not work)
+* Procurement Platform -> https://github.com/rapunzelXH/GreenTrace.git
+* Group 3 -> https://github.com/EPK-COURSES/TableSync-Pro
 
 Group C:
 * Librario -> https://github.com/kiarakarriqi/Librario
